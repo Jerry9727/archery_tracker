@@ -1,0 +1,12 @@
+html {
+    background: #9DC08B;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.grid-container button {
+    
+}
